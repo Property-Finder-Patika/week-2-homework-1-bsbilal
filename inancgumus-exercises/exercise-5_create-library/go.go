@@ -1,4 +1,4 @@
-package goversion
+package mygopackage
 
 import "runtime"
 
